@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-Play the game at [https://acesif.github.io/tic-tac-toe/](here)
+Play the game at [here]((https://acesif.github.io/tic-tac-toe/))
